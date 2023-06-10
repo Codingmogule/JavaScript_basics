@@ -1,0 +1,103 @@
+/* Style my webpage with me*/
+/* Probably gonna be pink and purple and every other beautiful color because i'm a designer */
+body{
+    background-color: black;
+    -webkit-text-fill-color: white;
+}
+#header{
+    background-image: url(./images/pexels-andrew-neel-2312369.jpg);
+    background-size: cover;
+    position:relative;
+    width: 100%;
+    height:400px;
+    
+}
+#head{
+    padding: 200px;
+    text-align: center;
+    display: flex;
+    text-decoration: underline;
+    -webkit-text-fill-color: orangered;
+    
+    
+}
+.top-navigation{
+    display:flex;
+    background-color: black;
+    color: white;
+    margin-top: 2px ;
+}
+#logo{
+    font-size: 40px;
+    font-weight: bolder;
+    background-color:orangered;
+    -webkit-text-fill-color: black;
+    margin-top: 2px;
+
+}
+a{
+    color: ghostwhite;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+body{
+    margin: 50px 50px 50px 50px;
+}
+
+#whatIsJs{
+    text-decoration: underline;
+    background-color: orchid;
+    color:black;
+}
+
+#whyJs{
+    text-decoration: underline;
+    background-color: orchid;
+    color:black;
+}
+
+
+#howToUseJs{
+    text-decoration: underline;
+    background-color: orchid;
+    color:black;
+}
+#variables{
+    text-decoration: underline;
+    background-color: orchid;
+    color:black;
+}
+#operators{
+    text-decoration: underline;
+    background-color: orchid;
+    color:black;
+}
+#statements{
+    text-decoration: underline;
+    background-color: orchid;
+    color:black;
+}
+#functions{
+    text-decoration: underline;
+    background-color: orchid;
+    color:black;
+}
+#typesOfFunctions{
+    text-decoration: underline;
+    background-color: orchid;
+    color:black;
+}
+#syntax{
+    text-decoration: underline;
+    background-color: orchid;
+    color:black;
+}
+#variablesNaming{
+    text-decoration: underline;
+    background-color: orchid;
+    color:black;  
+}
+
+
